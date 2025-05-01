@@ -1,6 +1,6 @@
 # Amazon-Sales-Dashboard-2024(Excel)
 # 📊 Amazon-Sales-Dashboard-2024
-<a href="##">View Dashboard</a> OR <a href="#">View Project</a>
+<a href="https://github.com/Tamang-Ajay/Amazon-Sales-Dashboard-Excel-Project/blob/main/dashboard.png">View Dashboard</a> OR <a href="https://github.com/Tamang-Ajay/Amazon-Sales-Dashboard-Excel-Project/blob/main/Amazonsalesdashboard.pdf">View Project</a>
 
 ## 📌Overview:
 I’m excited to share a dynamic and interactive Sales Dashboard I built in Microsoft Excel as part of my self-learning journey in data analysis.
@@ -29,7 +29,7 @@ Challenges I tackled:
 -Developed hyperlinked navigation for a seamless dashboard experience
 -Visualized performance across different cities, states, and product categories
 
-##💡Impact:
+## 💡Impact:
 -Gained practical experience building a dashboard from scratch
 -Strengthened my skills in Excel, data visualization, and data storytelling
 -Simulated how e-commerce businesses track sales KPIs and regional performance
@@ -38,7 +38,7 @@ Challenges I tackled:
 This self-initiated project helped me build confidence and apply my skills in a practical, business-focused way.
 
 ## ❗ Note
-The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href=""> View Sample File</a>
+The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href="https://github.com/Tamang-Ajay/Amazon-Sales-Dashboard-Excel-Project/blob/main/sample.csv"> View Sample File</a>
 
 📩 *If you'd like to review the file, feel free to reach out to me directly.*
 
