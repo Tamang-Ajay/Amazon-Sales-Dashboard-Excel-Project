@@ -8,10 +8,10 @@ This dashboard was created to analyze Amazon sales data (2024) with the goal of 
 
 ## 🎯Goal and 🚧Challenges:
 The goal of this project was to analyze and present Amazon sales data to:
-1)Understand total revenue and units sold
-2)Visualize city-wise and state-wise sales performance
-3)Break down sales by product categories
-4)Provide quick, interactive access to insights via hyperlinks
+- Understand total revenue and units sold
+- Visualize city-wise and state-wise sales performance
+- Break down sales by product categories
+- Provide quick, interactive access to insights via hyperlinks
 
 Challenges I tackled:
 - Cleaning and organizing raw sales data for consistency
